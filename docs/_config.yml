@@ -1,26 +1,26 @@
 # Set this website's info
 # Change "coffeebank" to your GitHub username
 # Change "moonrise" to your repository name
-url: "https://coffeebank.github.io"
-baseurl: "/moonrise"
-siteIcon: /media/android-chrome-192x192.png
-siteYear: 2020
+url: "https://amaan211.github.io"
+baseurl: "/bennettmc"
+siteIcon: /home/amaan/dev/moonrise-bennett-mc/moonrise/docs/media
+siteYear: 2021
 siteFooterlink: /about
 showinSearchEngines: true
 # googleAnalyticsID: (uncomment to use)
 
 
 # Set basic server info
-serverName: Moonrise MC
-serverDescription: A Minecraft server where we have lots of fun!
-serverIP: 31.41.59.26:5358
+serverName: Bennett MC
+serverDescription: A Server run BY bennetians FOR bennetians!
+serverIP: 20.198.250.235
 useBedrockForOnlineStatus: false
 
 
 # Discord information
-discordInvite: https://discord.gg/minecraft
-discordServerID: 299881420891881473
-discordChannelID: 450428756855750666
+discordInvite: https://discord.gg/td96SQKzC7
+discordServerID: 874207209767194624
+discordChannelID: 874207209767194633
 
 
 # # Navbar Links at the top of the page (uncomment "siteNav" to use)
