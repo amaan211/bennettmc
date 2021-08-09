@@ -3,7 +3,7 @@
 # Change "moonrise" to your repository name
 url: "https://amaan211.github.io"
 baseurl: "/bennettmc"
-siteIcon: /home/amaan/dev/moonrise-bennett-mc/moonrise/docs/media
+siteIcon: "/docs/media/logo.png"
 siteYear: 2021
 siteFooterlink: /about
 showinSearchEngines: true
