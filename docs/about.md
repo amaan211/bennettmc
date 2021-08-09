@@ -7,7 +7,7 @@ navname: About
 
 Bennett MC is a minecraft server created for bennetians. we aim to create a creative and friendly community. Let's play together!
 
-[GitHub](https://github.com/amaan211)
+[GitHub](https://github.com/amaan211) . 
 [Instagram](https://www.instagram.com/not_not_amaan/)
 
 
