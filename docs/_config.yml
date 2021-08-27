@@ -13,7 +13,7 @@ showinSearchEngines: true
 # Set basic server info
 serverName: Bennett MC
 serverDescription: A Server run BY bennetians FOR bennetians!
-serverIP: 20.198.250.235
+serverIP: 137.116.141.71
 useBedrockForOnlineStatus: false
 
 
